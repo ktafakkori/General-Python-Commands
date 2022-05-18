@@ -9,4 +9,4 @@ def install(package):
         pip._internal.main(['install', package])
      
 #Example:
-install('package name')
+install('numpy')
