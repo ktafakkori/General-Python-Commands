@@ -6,4 +6,4 @@ def install(package):
     else:
         pip._internal.main(['install', package])
         
- install('package name')
+install('package name')
